@@ -14,7 +14,7 @@ In the Settings Page you have a global control of the plugins that are active/no
 
 Moreover you will find a section for each page and post where you can select the plugins that you want to deactivate when that page or post is loaded in the front-end.
 
-To quickly see how it works look at https://player.vimeo.com/video/278470253
+To quickly see how it works: https://player.vimeo.com/video/278470253
 
-To dowload the udpated version go to https://wordpress.org/plugins/freesoul-deactivate-plugins/
+To dowload the udpated stable version: https://wordpress.org/plugins/freesoul-deactivate-plugins/
 
