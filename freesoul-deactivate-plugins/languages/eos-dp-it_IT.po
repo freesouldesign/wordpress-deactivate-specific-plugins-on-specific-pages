@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Freesoul Deactivate Plugins\n"
+"POT-Creation-Date: 2018-06-21 14:52+0200\n"
+"PO-Revision-Date: 2018-06-21 14:53+0200\n"
+"Last-Translator: Giuseppe <giu09.mor@gmail.com>\n"
+"Language-Team: Freesould Design <info@freesoul-designstudio.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: freesoul-deactivate-plugins.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/eos-dp-admin.php:11
+msgid ""
+"You have no direct write access, Freesoul Deactivate Plugins was not able to "
+"create the necessary mu-plugin and will not work."
+msgstr ""
+"Non disponendo di un accesso in scrittura diretto, Freesoul Deactivate "
+"Plugins non è stato in grado di creare il necessario mu-plugin e quindi non "
+"funzionerà."
+
+#. Plugin Name of the plugin/theme
+#: admin/eos-dp-admin.php:22 inc/eos-dp-metaboxes.php:13
+msgid "Freesoul Deactivate Plugins"
+msgstr "Freesoul Disattiva Plugins"
+
+#: admin/eos-dp-admin.php:35
+msgid "Uncheck the plugins that you want to deactivate for each page"
+msgstr "Deseleziona i plugin che vuoi disattivare per ogni pagina"
+
+#: admin/eos-dp-admin.php:36
+msgid ""
+"Stay a couple of seconds on the control settings with your mouse to read the "
+"help description"
+msgstr ""
+"Rimani un paio di secondi sui controlli con il mouse per leggere la "
+"descrizione del controllo"
+
+#: admin/eos-dp-admin.php:42 inc/eos-dp-metaboxes.php:34
+msgid "Plugin active"
+msgstr "Plugin attivo"
+
+#: admin/eos-dp-admin.php:45 inc/eos-dp-metaboxes.php:35
+msgid "Plugin not active"
+msgstr "Plugin non attivo"
+
+#: admin/eos-dp-admin.php:48
+msgid "Restore last saved options"
+msgstr "Ripristina le ultime opzioni salvate"
+
+#: admin/eos-dp-admin.php:48
+msgid "Back to last saved settings"
+msgstr "Torna alle ultime impostazioni salvate"
+
+#: admin/eos-dp-admin.php:62
+#, php-format
+msgid "Activate/deactivate %s everywhere"
+msgstr "Attivare/disattivare %s ovunque"
+
+#: admin/eos-dp-admin.php:63
+#, php-format
+msgid "Restore last saved options for %s everywhere"
+msgstr "Ripristina le ultime opzioni salvate per %s dappertutto"
+
+#: admin/eos-dp-admin.php:90 admin/eos-dp-admin.php:113
+#, php-format
+msgid "Activate/deactivate all plugins in %s"
+msgstr ""
+
+#: admin/eos-dp-admin.php:91
+#, php-format
+msgid "Reset last saved options for all plugins in %s"
+msgstr "Ripristina le ultime opzioni salvate per tutti i plugin in %s"
+
+#: admin/eos-dp-admin.php:97
+#, php-format
+msgid "Activate/deactivate %s in %s"
+msgstr "Attiva / disattiva %s in%s"
+
+#: admin/eos-dp-admin.php:98
+#, php-format
+msgid "Restore last saved options for %s in %s"
+msgstr "Ripristina le ultime opzioni salvate per %s in %s"
+
+#: admin/eos-dp-admin.php:114
+#, php-format
+msgid "Restore last saved optons in %s"
+msgstr "Ripristina le ultime opzioni salvate in %s"
+
+#: admin/eos-dp-admin.php:116
+msgid "Edit"
+msgstr "Modifica"
+
+#: admin/eos-dp-admin.php:117
+msgid "View"
+msgstr "Visita"
+
+#: admin/eos-dp-admin.php:126
+#, php-format
+msgid "%s in the page %s"
+msgstr "%s nella pagina %s"
+
+#: admin/eos-dp-admin.php:151
+msgid "Save all changes"
+msgstr "Salva tutto"
+
+#: admin/eos-dp-admin.php:152
+msgid "Ajax loader"
+msgstr ""
+
+#: admin/eos-dp-admin.php:155
+msgid "Options saved."
+msgstr "Impostazioni salvate."
+
+#: admin/eos-dp-admin.php:158
+msgid ""
+"Something went wrong, maybe you need to refresh the page and try again, but "
+"you will lose all your changes"
+msgstr ""
+"Qualcosa è andato storto, magari prima aggiorna la pagina e riprova, ma "
+"perderai tutte le tue modifiche"
+
+#: admin/eos-dp-ajax.php:43
+msgid "Data not updated"
+msgstr "Dati non aggiornati"
+
+#: inc/eos-dp-metaboxes.php:32
+msgid "Uncheck the plugins that you want to deactivate"
+msgstr "Deseleziona i plugin che vuoi disattivare"
+
+#: inc/eos-dp-metaboxes.php:55
+msgid "Go to Freesoul Deactivate Plugins settings page"
+msgstr "Vai alla pagina di impostazioni di Freesoul disattivare plugin"
+
+#: plugin-activation.php:28
+msgid "Failed to create eos-deactivate-plugins.php mu-plugin"
+msgstr "Creazione del mu-plugin eos-deactivate-plugins.php non riuscita"
+
+#. Description of the plugin/theme
+msgid ""
+"Freesoul Deactivate Plugins lets you deactivate specific plugins for "
+"specific pages. Useful to reach good performance and for support in problem "
+"solving even when many plugins are active."
+msgstr ""
+"Freesoul Disattiva Plugins ti permette di disattivare specifici plugin per "
+"specifiche pagine. Molto utile per raggiungere buone performances e per "
+"problem solving anche quando sono attivi molti plugins."
+
+#. Author of the plugin/theme
+msgid "Giuseppe Mortellaro, Eos Koch"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://freesoul-design-studio.com"
+msgstr ""
+
+#~ msgid ""
+#~ "Check the plugins that you want to deactivate when the page is loaded"
+#~ msgstr ""
+#~ "Seleziona i plugin che vuoi disattivare quando viene caricata questa "
+#~ "pagina"
+
+#~ msgid "select all"
+#~ msgstr "seleziona tutto"
+
+#~ msgid "unselect all"
+#~ msgstr "deseleziona tutto"
+
+#~ msgid "Reset"
+#~ msgstr "Ripristina ultimo salvataggio"
+
+#~ msgid "Check to deactivate"
+#~ msgstr "Seleziona per disattivare"
+
+#~ msgid "Check/uncheck %s for the %s"
+#~ msgstr "Seleziona/deseleziona %s per %s"
+
+#~ msgid ""
+#~ "Thank you for activating Freesoul Deactivate Plugins. You will find the "
+#~ "plugin options in the metaboxes section for each pages and posts. No "
+#~ "additional back-end settings pages needed."
+#~ msgstr ""
+#~ "Grazie per aver attivato Freesoul Deactivate Plugins. Troverai le opzioni "
+#~ "nella sezione dei metabox per ogni pagina e articolo."

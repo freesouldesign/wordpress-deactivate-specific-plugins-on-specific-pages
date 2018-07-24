@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Freesoul Deactivate Plugins\n"
+"POT-Creation-Date: 2018-06-17 09:35+0200\n"
+"PO-Revision-Date: 2018-06-12 12:28+0200\n"
+"Last-Translator: Giuseppe <giu09.mor@gmail.com>\n"
+"Language-Team: Giuseppe <giu09.mor@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: freesoul-deactivate-plugins.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/eos-dp-admin.php:10
+msgid ""
+"You have no direct write access, Freesoul Deactivate Plugins was not able to "
+"create the necessary mu-plugin and will not work."
+msgstr ""
+
+#: admin/eos-dp-admin.php:17
+msgid ""
+"Thank you for activating Freesoul Deactivate Plugins. You will find the "
+"plugin options in the metaboxes section for each pages and posts. No "
+"additional back-end settings pages needed."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/eos-dp-admin.php:24 inc/eos-dp-metaboxes.php:13
+msgid "Freesoul Deactivate Plugins"
+msgstr ""
+
+#: admin/eos-dp-admin.php:40
+msgid "Check the plugins that you want to deactivate for each page"
+msgstr ""
+
+#: admin/eos-dp-admin.php:47
+msgid "Check to deactivate"
+msgstr ""
+
+#: admin/eos-dp-admin.php:50 admin/eos-dp-admin.php:65
+#: admin/eos-dp-admin.php:91 admin/eos-dp-admin.php:103
+msgid "Reset"
+msgstr ""
+
+#: admin/eos-dp-admin.php:50
+msgid "Back to last saved settings"
+msgstr ""
+
+#: admin/eos-dp-admin.php:112
+#, php-format
+msgid "%s in the page %s"
+msgstr ""
+
+#: admin/eos-dp-admin.php:138
+msgid "Save all changes"
+msgstr ""
+
+#: admin/eos-dp-admin.php:139
+msgid "Ajax loader"
+msgstr ""
+
+#: admin/eos-dp-admin.php:142
+msgid "Options saved."
+msgstr ""
+
+#: admin/eos-dp-admin.php:145
+msgid ""
+"Something went wrong, maybe you need to refresh the page and try again, but "
+"you will lose all your changes"
+msgstr ""
+
+#: inc/eos-dp-metaboxes.php:31
+msgid "Check the plugins that you want to deactivate when the page is loaded"
+msgstr ""
+
+#: inc/eos-dp-metaboxes.php:50
+msgid "select all"
+msgstr ""
+
+#: inc/eos-dp-metaboxes.php:51
+msgid "unselect all"
+msgstr ""
+
+#: plugin-activation.php:28
+msgid "Failed to create eos-deactivate-plugins.php mu-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Freesoul Deactivate Plugins lets you deactivate specific plugins for "
+"specific pages. Useful to reach good performance and for support in problem "
+"solving even when many plugins are active."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Giuseppe Mortellaro, Eos Koch"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://freesoul-design-studio.com"
+msgstr ""

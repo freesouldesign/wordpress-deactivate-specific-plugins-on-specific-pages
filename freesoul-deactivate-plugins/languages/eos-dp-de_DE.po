@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Freesoul Deactivate Plugins\n"
+"POT-Creation-Date: 2018-06-21 14:51+0200\n"
+"PO-Revision-Date: 2018-06-21 14:52+0200\n"
+"Last-Translator: Giuseppe <giu09.mor@gmail.com>\n"
+"Language-Team: Giuseppe <giu09.mor@gmail.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: freesoul-deactivate-plugins.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/eos-dp-admin.php:11
+msgid ""
+"You have no direct write access, Freesoul Deactivate Plugins was not able to "
+"create the necessary mu-plugin and will not work."
+msgstr ""
+"Wenn du keinen direkten Schreibzugriff besitzt, konnte Freesoul Deactivate "
+"Plugins das erforderliche mu-plugin nicht erstellen und wird nicht "
+"funktionieren."
+
+#. Plugin Name of the plugin/theme
+#: admin/eos-dp-admin.php:22 inc/eos-dp-metaboxes.php:13
+msgid "Freesoul Deactivate Plugins"
+msgstr "Freesoul Plugins Deaktivieren"
+
+#: admin/eos-dp-admin.php:35
+msgid "Uncheck the plugins that you want to deactivate for each page"
+msgstr ""
+"Lasse die Kontrollkästchen der Plugins welche du beim laden der Seite "
+"deaktivieren möchtest frei"
+
+#: admin/eos-dp-admin.php:36
+msgid ""
+"Stay a couple of seconds on the control settings with your mouse to read the "
+"help description"
+msgstr ""
+"Bleibe einige Sekunden auf den Steuerungseinstellungen mit dem Mauszeiger um "
+"die Hilfe Beschreibung zu lesen"
+
+#: admin/eos-dp-admin.php:42 inc/eos-dp-metaboxes.php:34
+msgid "Plugin active"
+msgstr "Das Plugin ist aktiv"
+
+#: admin/eos-dp-admin.php:45 inc/eos-dp-metaboxes.php:35
+msgid "Plugin not active"
+msgstr "Das Plugin ist deaktiviert"
+
+#: admin/eos-dp-admin.php:48
+msgid "Restore last saved options"
+msgstr "Die zuletzt gespeicherten Optionen wiederherstellen"
+
+#: admin/eos-dp-admin.php:48
+msgid "Back to last saved settings"
+msgstr "Zurück zu den zuletzt gespeicherten Einstellungen"
+
+#: admin/eos-dp-admin.php:62
+#, php-format
+msgid "Activate/deactivate %s everywhere"
+msgstr "Aktiviere/deaktiviere %s überall"
+
+#: admin/eos-dp-admin.php:63
+#, php-format
+msgid "Restore last saved options for %s everywhere"
+msgstr "Die zuletzt gespeicherten Optionen wiederherstellen für %s überall"
+
+#: admin/eos-dp-admin.php:90 admin/eos-dp-admin.php:113
+#, php-format
+msgid "Activate/deactivate all plugins in %s"
+msgstr "Aktiviere/deaktiviere alle Plugins in %s"
+
+#: admin/eos-dp-admin.php:91
+#, php-format
+msgid "Reset last saved options for all plugins in %s"
+msgstr "Aktiviere/deaktiviere alle Plugins in %s"
+
+#: admin/eos-dp-admin.php:97
+#, php-format
+msgid "Activate/deactivate %s in %s"
+msgstr "Aktiviere/deaktiviere alle %s in %s"
+
+#: admin/eos-dp-admin.php:98
+#, php-format
+msgid "Restore last saved options for %s in %s"
+msgstr "Die zuletzt gespeicherten Optionen wiederherstellen für %s in %s"
+
+#: admin/eos-dp-admin.php:114
+#, php-format
+msgid "Restore last saved optons in %s"
+msgstr "Die zuletzt gespeicherten Optionen wiederherstellen in %s"
+
+#: admin/eos-dp-admin.php:116
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/eos-dp-admin.php:117
+msgid "View"
+msgstr "Ansehen"
+
+#: admin/eos-dp-admin.php:126
+#, php-format
+msgid "%s in the page %s"
+msgstr "%s auf der Seite %s"
+
+#: admin/eos-dp-admin.php:151
+msgid "Save all changes"
+msgstr "Alle Änderungen speichern"
+
+#: admin/eos-dp-admin.php:152
+msgid "Ajax loader"
+msgstr ""
+
+#: admin/eos-dp-admin.php:155
+msgid "Options saved."
+msgstr "Die Einstellungen wurden gespeichert."
+
+#: admin/eos-dp-admin.php:158
+msgid ""
+"Something went wrong, maybe you need to refresh the page and try again, but "
+"you will lose all your changes"
+msgstr ""
+"Es scheint etwas schief gelaufen zu sein. Bitte lade die Seite neu und "
+"versuche es erneut"
+
+#: admin/eos-dp-ajax.php:43
+msgid "Data not updated"
+msgstr "Daten nicht aktualisiert"
+
+#: inc/eos-dp-metaboxes.php:32
+msgid "Uncheck the plugins that you want to deactivate"
+msgstr ""
+"Lasse die Kontrollkästchen der Plugins welche du deaktivieren möchtest frei"
+
+#: inc/eos-dp-metaboxes.php:55
+msgid "Go to Freesoul Deactivate Plugins settings page"
+msgstr "Gehe zu der Freesoul Deaktiviere Plugins Einstellungsseite"
+
+#: plugin-activation.php:28
+msgid "Failed to create eos-deactivate-plugins.php mu-plugin"
+msgstr "Fehler beim erstellen von eos-deactivate-plugins.php mu-plugin"
+
+#. Description of the plugin/theme
+msgid ""
+"Freesoul Deactivate Plugins lets you deactivate specific plugins for "
+"specific pages. Useful to reach good performance and for support in problem "
+"solving even when many plugins are active."
+msgstr ""
+"Freesoul Deactivate Plugins kannst du spezifische Plugins für spezifische "
+"Seiten deaktivieren. Nützlich um eine gute Performance zu erreichen und "
+"hilfreich bei der Problemlösung auch wenn viele Plugins aktiv sind."
+
+#. Author of the plugin/theme
+msgid "Giuseppe Mortellaro, Eos Koch"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://freesoul-design-studio.com"
+msgstr ""
+
+#~ msgid ""
+#~ "Check the plugins that you want to deactivate when the page is loaded"
+#~ msgstr ""
+#~ "Markiere die Kontrollkästchen der Plugins welche du beim laden der Seite "
+#~ "deaktivieren möchtest"
+
+#~ msgid "select all"
+#~ msgstr "Alle ankreuzen"
+
+#~ msgid "unselect all"
+#~ msgstr "Alle frei lassen"
+
+#~ msgid "Check to deactivate"
+#~ msgstr "Markieren um zu deaktivieren"
+
+#~ msgid "Reset"
+#~ msgstr "Zurücksetzen"
+
+#~ msgid "Check/uncheck %s for the %s"
+#~ msgstr "%s Aktivieren/Deaktivieren für %s"
+
+#~ msgid ""
+#~ "Thank you for activating Freesoul Deactivate Plugins. You will find the "
+#~ "plugin options in the metaboxes section for each pages and posts. No "
+#~ "additional back-end settings pages needed."
+#~ msgstr ""
+#~ "Vielen Dank für das aktivieren von Freesoul Deactivate Plugins. Du "
+#~ "findest die Plugin Optionen im Metabox Bereich der einzelnen Seiten und "
+#~ "Beiträgen. Es gibt keine Backend Einstellungsseiten für dieses Plugin."
