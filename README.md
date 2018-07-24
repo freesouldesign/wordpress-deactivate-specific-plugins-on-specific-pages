@@ -2,7 +2,7 @@
 
 WordPress plugin to deactivate specific plugins on specific pages
 
-Freesoul Deactivate Plugins is a free WordPress plugin to deactivate specific plugins on specific pages and archives, to increase the performance of a WordPress site.
+Freesoul Deactivate Plugins is a free WordPress plugin to deactivate specific plugins on specific pages and archives, to increase the performance of a WordPress site when many heavy plugins are active.
 
 You can also use it for support in problem solving even when many plugins are active.
 
